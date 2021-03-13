@@ -14,8 +14,8 @@
 
 ## 0x2 怎么提问？
 
-1. 点击Issues选项卡
-2. 提问前请阅读[提问的智慧](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/main/README-zh_CN.md)
+1. 提问前请阅读[提问的智慧](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/main/README-zh_CN.md)
+2. 点击Issues选项卡
 3. 请遵循提问模板进行提问
 
 > **1.问题描述：** Chrome浏览器无法正常访问网页
@@ -30,7 +30,7 @@
 > 
 > **3.已经尝试过的解决办法：**
 > * 重新连接网络
-> * 清楚系统代理
+> * 清除系统代理
 > * 连接其他网络
  
 
